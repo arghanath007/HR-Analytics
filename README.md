@@ -1,5 +1,7 @@
 # AtliQ-HR-Analytics-Dashboard
 
+* Interactive Dashboard Link -> https://www.novypro.com/project/atliq-hr-analytics
+
 >This was a Project series put up by a YouTuber Codebasics, in which he discussed a real life workflow in creating an HR report for an HR person in a real world company AtliQ. He showed up from loading the data, to cleaning/transforming the data, learning about the KPIs needed by the HR person of the company.
 
 ## Problem Statement
